@@ -24,6 +24,10 @@ The raw data was gathered from a .xlsx file, which included car details such as 
 **Model**
 
 The model was trained using the RandomForest Regressor algorithm provided by scikit-learn. After training, the model was serialized into a .pkl file, which is used to make predictions in the web app.
+- Mean Absolute Error (MAE): 129,121.62
+- Mean Squared Error (MSE): 187,349,940,163.45
+- Root Mean Squared Error (RMSE): 432,839.39
+- R² Score: 0.8995
 
 **Application Workflow**
 
