@@ -36,5 +36,5 @@ The model was trained using the RandomForest Regressor algorithm provided by sci
 - Web Interface: Developed a Streamlit web app to accept user inputs and predict the car price using the trained model.
 
 **How to Run**
-- Run the Streamlit app: **streamlit run webapp_carDheko.py**
+- Run the Streamlit app: **streamlit run webapp_CarDheko.py**
 - Open the provided local URL in your browser and start predicting car prices!
